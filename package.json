@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build-tsc": "tsc app.ts"
+  },
+  "dependencies": {
+    "maplibre-gl": "^2.0.1",
+    "typescript": "^4.5.4"
+  }
+}
