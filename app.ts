@@ -1,1 +1,1 @@
-import { Map } from "maplibre-gl";
+import maplibregl from "maplibre-gl";
