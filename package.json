@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build-tsc": "tsc app.ts"
+    "build": "tsc"
   },
   "dependencies": {
     "maplibre-gl": "^2.0.4",
